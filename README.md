@@ -1,2 +1,2 @@
 # Traduction
-Traduire du texte français en d'autres langues (Anglais, Espagnol, Allemand).
+Traduire du texte Anglais en Français depuis API.
